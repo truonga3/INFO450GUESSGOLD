@@ -1,0 +1,3 @@
+﻿  gold.cpp
+c:\users\alex\source\repos\info450guessgold\info450guessgold\gold.cpp(92): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  INFO450GUESSGOLD.vcxproj -> C:\Users\Alex\source\repos\INFO450GUESSGOLD\Debug\INFO450GUESSGOLD.exe
